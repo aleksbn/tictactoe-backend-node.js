@@ -1,6 +1,6 @@
 # DISCLAIMER! LEGACY DEMO PROJECT
 
-This project was built during learning process (back in late 2023) and is not representing my current coding skills, but is availabe as a part of my personal development timeline.
+This project was built during learning process (back in late 2023) and is not representing my current coding skills, but is available as a part of my personal development timeline.
 
 # Tictactoe
 
