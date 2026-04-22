@@ -1,3 +1,7 @@
+# Legacy demo project
+
+This project was built during learning process (back in early 2024) and is not representing my current coding skills, but is availabe as a part of my personal development timeline.
+
 # Tictactoe
 
 Project is based on a very popular social game called Tic-Tac-Toe. Game board consists of 9 fields table. Players mark their chosen spots in turns with the main goal to connect 3 fields in one straight line in any direction.
